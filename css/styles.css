@@ -1,0 +1,27 @@
+.home_page_row
+{
+	width: 200px;
+	height: 150px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 200px;*/
+}
+
+
+.pager .active a
+{
+	background-color: #c71;
+	color: #fff;
+}
+
+.pager .active a:hover
+{
+	background-color: #e71;
+	color: #fff;
+}
+
+
